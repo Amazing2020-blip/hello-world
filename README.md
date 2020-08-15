@@ -1,2 +1,2 @@
-# hello-world
-Wao! am using Github
+My name is Nwaankwo Ernest Onyebuchi.
+I love Coding
